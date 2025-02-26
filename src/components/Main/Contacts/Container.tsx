@@ -18,12 +18,12 @@ const ContactsContainer = () => {
         </div>
         <div className="text-center md:text-left">
           <h6 className="text-[20px] font-bold mt-[30px] mb-[15px]">
-            Thôn Thịnh Nội
+            Thịnh Nội
           </h6>
           <p>
-            Xã Mỹ Thắng
+            Mỹ Thắng
             <br />
-            Huyện Mỹ Lộc, Tỉnh Nam Định
+            Mỹ Lộc, Tỉnh Nam Định
           </p>
           <dl className="md:flex md:items-center">
             <dt className="font-bold text-sm">Email:&nbsp; </dt>
